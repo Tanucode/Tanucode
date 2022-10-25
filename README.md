@@ -4,7 +4,7 @@
 **Tanucode/Tanucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[![@torque77's Holopin board](https://holopin.me/torque77)](https://holopin.io/@torque77)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![@torque77's Holopin board](https://holopin.me/torque77)](https://holopin.io/@torque77)
